@@ -1,12 +1,14 @@
 # Projects
-Golden Cross signal 
-At this project I create a csv file where i create a statistik about the golden cross signal.
+Golden Cross Moving average  
+
+Although I am aware that the Golden Cross signal on its own does not constitute a strong argument for predictive analysis, I developed this program as a means to gain a clearer picture of its behavior and potential significance within specific time frames.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 stages
+
 1)A list is created containing the tickers of the stocks to be examined for the Golden Cross signal. (These are the stocks under analysis.)
 
-2)2) For each stock, it checks whether a Golden Cross signal has occurred, and if so, analyzes its price movement over the following 30 days, within the time frame we define.
+2) For each stock, it checks whether a Golden Cross signal has occurred, and if so, analyzes its price movement over the following 30 days, within the time frame we define.
 
 3)It records statistics such as the maximum and minimum stock price during that 30-day period, as well as on which day (after the signal) those extreme values occurred.
 
