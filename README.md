@@ -1,5 +1,5 @@
 # Projects
-Golden Cross Moving average  
+Golden Cross Moving Average  
 
 Although I am aware that the Golden Cross signal on its own does not constitute a strong argument for predictive analysis, I developed this program as a means to gain a clearer picture of its behavior and potential significance within specific time frames.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
