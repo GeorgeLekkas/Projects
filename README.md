@@ -8,7 +8,7 @@ stages
 
 1)A list is created containing the tickers of the stocks to be examined for the Golden Cross signal. (These are the stocks under analysis.)
 
-2) For each stock, it checks whether a Golden Cross signal has occurred, and if so, analyzes its price movement over the following 30 days, within the time frame we define.
+2)For each stock, it checks whether a Golden Cross signal has occurred, and if so, analyzes its price movement over the following 30 days, within the time frame we define.
 
 3)It records statistics such as the maximum and minimum stock price during that 30-day period, as well as on which day (after the signal) those extreme values occurred.
 
