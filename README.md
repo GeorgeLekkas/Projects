@@ -4,7 +4,7 @@ Golden Cross Moving average
 Although I am aware that the Golden Cross signal on its own does not constitute a strong argument for predictive analysis, I developed this program as a means to gain a clearer picture of its behavior and potential significance within specific time frames.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-stages
+The Algorithm does:
 
 1)A list is created containing the tickers of the stocks to be examined for the Golden Cross signal. (These are the stocks under analysis.)
 
@@ -13,7 +13,9 @@ stages
 3)It records statistics such as the maximum and minimum stock price during that 30-day period, as well as on which day (after the signal) those extreme values occurred.
 
 
-📁 CSV Output Columns
+📁 CSV Output Columns.
+
+
 1st column: Stock ticker
 
 2nd column: Date when the Golden Cross signal was detected
