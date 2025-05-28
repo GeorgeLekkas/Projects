@@ -1,8 +1,8 @@
 # Projects
 
-Golden Cross Moving Average . [GC_stat.py]
+=> Golden Cross Moving Average . [GC_stat.py]
 
-Long - Short Term Memory Neural Network. [D_D.py], [plh8os.py], and [tst_pl.py].
+=> Long - Short Term Memory Neural Network. [D_D.py], [plh8os.py], and [tst_pl.py].
  
 ============================================================
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
