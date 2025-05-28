@@ -59,15 +59,21 @@ Long - Short Term Memory Neural Network.  [LSTM]
 
 The project consists of three scripts: [D_D.py], [plh8os.py], and [tst_pl.py].
 
-[D_D.py] downloads two datasets:
+[D_D.py] 
+
+downloads two datasets:
 ticker_D1.csv and ticker_D2.csv
 
-[plh8os.py] trains 4 LSTM models.
+[plh8os.py] 
+
+trains 4 LSTM models.
 It runs two nested for loops over the values of window (w) and units (un) of the LSTM layers.
 Therefore, it trains neural networks for all possible combinations of (w, un).
 Using the second dataset, it tests each model over the last 30 days and logs statistics into a CSV file.
 
-[tst_pl.py] visualizes the model of your choice.
+[tst_pl.py] 
+
+visualizes the model of your choice.
 
 
 How to run the project:
