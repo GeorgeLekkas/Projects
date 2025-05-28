@@ -59,26 +59,26 @@ Long - Short Term Memory Neural Network.  [LSTM]
 
 The project consists of three scripts: [D_D.py], [plh8os.py], and [tst_pl.py].
 
-[D_D.py] /// Downloads two datasets:
+[D_D.py] || Downloads two datasets:
 ticker_D1.csv and ticker_D2.csv
 
-[plh8os.py] ///  Trains 4 LSTM models.
+[plh8os.py] ||  Trains 4 LSTM models.
 It runs two nested for loops over the values of window (w) and units (un) of the LSTM layers.
 Therefore, it trains neural networks for all possible combinations of (w, un).
 Using the second dataset, it tests each model over the last 30 days and logs statistics into a CSV file.
 
-[tst_pl.py] /// Visualizes the model of your choice.
+[tst_pl.py] || Visualizes the model of your choice.
 
 
 How to run the project:
 
-a) In D_D.py, select the ticker you want to analyze, as well as the date range for training and testing.
+a) In [D_D.py], select the ticker you want to analyze, as well as the date range for training and testing.
 Then run the script to download the data.
 
-b) In plh8os.py, on line 9, set the same ticker you used in the previous script.
+b) In [plh8os.py], on line 9, set the same ticker you used in the previous script.
 Run the script to train the 4 neural networks and generate their corresponding performance statistics.
 
-c) In tst_pl.py, once again set the same ticker, and also select values for un and w on lines 7 and 8, respectively.
+c) In [tst_pl.py], once again set the same ticker, and also select values for un and w on lines 7 and 8, respectively.
 Valid values are:
 
 un ∈ A = (40, 50)
