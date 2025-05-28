@@ -1,6 +1,13 @@
 # Projects
 
-Golden Cross Moving Average . [ ]
+Golden Cross Moving Average . [GC_stat.py]
+
+Long - Short Term Memory Neural Network. [D_D.py], [plh8os.py], and [tst_pl.py].
+ 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Golden Cross Moving Average . [GC_stat.py]
 
 Although I am aware that the Golden Cross signal on its own does not constitute a strong argument for predictive analysis, I developed this program as a means to gain a clearer picture of its behavior and potential significance within specific time frames.
 
