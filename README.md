@@ -3,8 +3,7 @@
 Golden Cross Moving Average . [ ]
 
 Although I am aware that the Golden Cross signal on its own does not constitute a strong argument for predictive analysis, I developed this program as a means to gain a clearer picture of its behavior and potential significance within specific time frames.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The Algorithm does:
 
 1)A list is created containing the tickers of the stocks to be examined for the Golden Cross signal. (These are the stocks under analysis.)
@@ -44,7 +43,7 @@ The Algorithm does:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Long - Short Term Memory Neural Network. [ ]
+Long - Short Term Memory Neural Network.  [LSTM]
 
 The project consists of three scripts: [D_D.py], [plh8os.py], and [tst_pl.py].
 
@@ -58,7 +57,9 @@ Using the second dataset, it tests each model over the last 30 days and logs sta
 
 [tst_pl.py] visualizes the model of your choice.
 
+
 How to run the project:
+
 a) In D_D.py, select the ticker you want to analyze, as well as the date range for training and testing.
 Then run the script to download the data.
 
